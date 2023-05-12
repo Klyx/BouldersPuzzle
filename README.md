@@ -1,4 +1,4 @@
-# BouldersPuzzle
+# Boulders: Puzzle
 Boulders: Puzzle is a game that challenges your logic and spatial thinking. You take control of a cuboid and must traverse the level in three dimensions to reach the goal cube and use the environment to modify the cuboids length to get past obstacles.
 
 ```
