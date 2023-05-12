@@ -3,7 +3,7 @@ Boulders: Puzzle is a game that challenges your logic and spatial thinking. You 
 
 **Please Observe**
 ```
-I have only uploaded the code of Boulders: Puzzle for you to learn from, it will **NOT COMPILE**
+I have only uploaded the code of Boulders: Puzzle for you to learn from, it will NOT COMPILE
 The code is also quite messy as I have worked on it when ever I had a moment of time to do so.
 ```
 
