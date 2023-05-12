@@ -22,7 +22,7 @@ namespace FG {
 
         [field: NonSerialized] public string LevelFolder { get; private set; } = string.Empty;
 
-        [NonSerialized] public const string _netAccessCode = "?secretkey=dsfkdkx3232";
+        [NonSerialized] public const string _netAccessCode = "?secretkey=SecretString";
         
         public static int SettingsVersion { get; set; } = 3;
 
