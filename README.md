@@ -10,4 +10,6 @@ The code is also quite messy as I have worked on it when ever I had a moment of 
 Boulders: Puzzle was relaes for PC and Android.
 The PC version also features a level editor.
 
+Downoad for free on [Steam](https://store.steampowered.com/app/1492290/Boulders_Puzzle/), [Itch IO](https://farewell-games.itch.io/boulders-puzzle), [Google Play](https://play.google.com/store/apps/details?id=com.FarewellGames.BouldersPuzzle)
+
 [movie480_vp9.webm](https://github.com/Klyx/BouldersPuzzle/assets/1430659/3616cb8f-68ca-4969-a21c-e33390e34d72)
